@@ -1,0 +1,15 @@
+gradio
+
+pandas
+numpy
+requests
+lxml
+datetime
+unidecode
+tqdm
+matplotlib
+seaborn
+scikit-learn
+xgboost
+bs4
+pyarrow
